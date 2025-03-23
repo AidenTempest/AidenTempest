@@ -1,9 +1,8 @@
 ## Hi there 👋
 - 👋 Hi, I’m Anvay Jaykar
-- 👀 I’m interested in Web And App Development
-- 🌱 I’m currently learning Express JS
-- 💞️ I’m looking to collaborate on beginner Web Dev projects
-- 📫 Reach out to me at aayushvats361@gmail.com
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning GAN
+- 📫 Reach out to me at anvayjaykar@gmail.com
 - ⚡ Fun fact: Life may have begun on Mars and then travelled to Earth on debris from collisions. Research "Panspermia"
 <!--
 **AidenTempest/AidenTempest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
